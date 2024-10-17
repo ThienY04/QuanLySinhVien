@@ -1,0 +1,12 @@
+D:\Lập trình Win\Lab06_NguyenTranThienY_2280603808\lab06_NguyenTranThienY\Lab06_DAL\bin\Debug\Lab06_DAL.dll.config
+D:\Lập trình Win\Lab06_NguyenTranThienY_2280603808\lab06_NguyenTranThienY\Lab06_DAL\bin\Debug\Lab06_DAL.dll
+D:\Lập trình Win\Lab06_NguyenTranThienY_2280603808\lab06_NguyenTranThienY\Lab06_DAL\bin\Debug\Lab06_DAL.pdb
+D:\Lập trình Win\Lab06_NguyenTranThienY_2280603808\lab06_NguyenTranThienY\Lab06_DAL\bin\Debug\EntityFramework.dll
+D:\Lập trình Win\Lab06_NguyenTranThienY_2280603808\lab06_NguyenTranThienY\Lab06_DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Lập trình Win\Lab06_NguyenTranThienY_2280603808\lab06_NguyenTranThienY\Lab06_DAL\bin\Debug\EntityFramework.xml
+D:\Lập trình Win\Lab06_NguyenTranThienY_2280603808\lab06_NguyenTranThienY\Lab06_DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Lập trình Win\Lab06_NguyenTranThienY_2280603808\lab06_NguyenTranThienY\Lab06_DAL\obj\Debug\Lab06_DAL.csproj.AssemblyReference.cache
+D:\Lập trình Win\Lab06_NguyenTranThienY_2280603808\lab06_NguyenTranThienY\Lab06_DAL\obj\Debug\Lab06_DAL.csproj.CoreCompileInputs.cache
+D:\Lập trình Win\Lab06_NguyenTranThienY_2280603808\lab06_NguyenTranThienY\Lab06_DAL\obj\Debug\Lab06_DAL.csproj.Up2Date
+D:\Lập trình Win\Lab06_NguyenTranThienY_2280603808\lab06_NguyenTranThienY\Lab06_DAL\obj\Debug\Lab06_DAL.dll
+D:\Lập trình Win\Lab06_NguyenTranThienY_2280603808\lab06_NguyenTranThienY\Lab06_DAL\obj\Debug\Lab06_DAL.pdb

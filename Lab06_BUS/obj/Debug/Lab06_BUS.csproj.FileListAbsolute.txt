@@ -1,0 +1,15 @@
+D:\Lập trình Win\Lab06_NguyenTranThienY_2280603808\lab06_NguyenTranThienY\Lab06_BUS\bin\Debug\Lab06_BUS.dll.config
+D:\Lập trình Win\Lab06_NguyenTranThienY_2280603808\lab06_NguyenTranThienY\Lab06_BUS\bin\Debug\Lab06_BUS.dll
+D:\Lập trình Win\Lab06_NguyenTranThienY_2280603808\lab06_NguyenTranThienY\Lab06_BUS\bin\Debug\Lab06_BUS.pdb
+D:\Lập trình Win\Lab06_NguyenTranThienY_2280603808\lab06_NguyenTranThienY\Lab06_BUS\bin\Debug\EntityFramework.dll
+D:\Lập trình Win\Lab06_NguyenTranThienY_2280603808\lab06_NguyenTranThienY\Lab06_BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\Lập trình Win\Lab06_NguyenTranThienY_2280603808\lab06_NguyenTranThienY\Lab06_BUS\bin\Debug\Lab06_DAL.dll
+D:\Lập trình Win\Lab06_NguyenTranThienY_2280603808\lab06_NguyenTranThienY\Lab06_BUS\bin\Debug\Lab06_DAL.pdb
+D:\Lập trình Win\Lab06_NguyenTranThienY_2280603808\lab06_NguyenTranThienY\Lab06_BUS\bin\Debug\Lab06_DAL.dll.config
+D:\Lập trình Win\Lab06_NguyenTranThienY_2280603808\lab06_NguyenTranThienY\Lab06_BUS\bin\Debug\EntityFramework.xml
+D:\Lập trình Win\Lab06_NguyenTranThienY_2280603808\lab06_NguyenTranThienY\Lab06_BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\Lập trình Win\Lab06_NguyenTranThienY_2280603808\lab06_NguyenTranThienY\Lab06_BUS\obj\Debug\Lab06_BUS.csproj.AssemblyReference.cache
+D:\Lập trình Win\Lab06_NguyenTranThienY_2280603808\lab06_NguyenTranThienY\Lab06_BUS\obj\Debug\Lab06_BUS.csproj.CoreCompileInputs.cache
+D:\Lập trình Win\Lab06_NguyenTranThienY_2280603808\lab06_NguyenTranThienY\Lab06_BUS\obj\Debug\Lab06_BUS.csproj.Up2Date
+D:\Lập trình Win\Lab06_NguyenTranThienY_2280603808\lab06_NguyenTranThienY\Lab06_BUS\obj\Debug\Lab06_BUS.dll
+D:\Lập trình Win\Lab06_NguyenTranThienY_2280603808\lab06_NguyenTranThienY\Lab06_BUS\obj\Debug\Lab06_BUS.pdb
